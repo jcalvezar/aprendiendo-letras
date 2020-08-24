@@ -6,6 +6,9 @@
 .tmp
 *.tmp
 *.tmp.*
+*.apk
+*.keystore
+*.sh
 *.sublime-project
 *.sublime-workspace
 .DS_Store
@@ -29,3 +32,4 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
